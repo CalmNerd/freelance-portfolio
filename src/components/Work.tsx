@@ -4,13 +4,13 @@ import test from '../assets/test.png';
 const Work = () => {
   
   const projectline1 = [
-    { src: test, href: "https://bento-gen.vercel.app/", alt: "Test" },
-    { src: test, href: "https://bento-gen.vercel.app/", alt: "Test" }
+    { src: test, href: "https://www.mohitsingh.space/", alt: "Test" },
+    { src: test, href: "https://www.mohitsingh.space/", alt: "Test" }
   ];
 
   const projectline2 = [
-    { src: test, href: "https://bento-gen.vercel.app/", alt: "Test" },
-    { src: test, href: "https://bento-gen.vercel.app/", alt: "Test" }
+    { src: test, href: "https://www.mohitsingh.space/", alt: "Test" },
+    { src: test, href: "https://www.mohitsingh.space/", alt: "Test" }
   ];
 
 
